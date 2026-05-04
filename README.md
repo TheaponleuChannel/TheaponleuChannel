@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm <!-- YOUR NAME HERE --></h1>
+<h1 align="center">Hi 👋, I'm Ponleu</h1>
 <h3 align="center">Frontend Developer | UI Enthusiast | React Specialist</h3>
 
 <p align="center">
@@ -97,7 +97,7 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 🔹 Project One | <!-- Replace description --> | React, Tailwind |
+| 🔹 Bigdooq Store | Ecommerse scaling website | Angular, TypeScript |
 | 🔹 Project Two | <!-- Replace description --> | Next.js, TypeScript |
 | 🔹 Project Three | <!-- Replace description --> | Vue, Firebase |
 | 🔹 Project Four | <!-- Replace description --> | Angular, Material UI |
