@@ -1,24 +1,21 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Ponleu</h1>
-<h3 align="center">Frontend Developer | UI Enthusiast | React Specialist</h3>
-
-<p align="center">
-  <!-- Optional typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Crafting+beautiful+UIs;Building+scalable+frontend+apps;Passionate+about+UX+%26+performance" />
-</p>
+<h1 align="center">Hi 👋, I'm Ponleu</h1> <h3 align="center">Frontend Developer | Angular Specialist | UI Engineer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+Angular+applications;Crafting+high-performance+frontend+systems;Focused+on+clean+architecture+%26+DX" /> </p>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
 ## 👨‍💻 About Me
 
-- 💡 Passionate about building **modern, responsive, and accessible web applications**
-- 🎯 Focused on **clean architecture, performance optimization, and user experience**
-- ⚡ Love working with **component-driven design systems**
-- 🌱 Always learning and improving in the frontend ecosystem
+- 💡 **Passionate about building enterprise-level Angular applications**
+- 🧱 **Strong focus on scalable architecture, modular design, and maintainability**
+- ⚡ **Experienced with Angular (v10 → latest), RxJS, and reactive programming**
+- 🎯 **Skilled in state management, performance optimization, and large-scale UI systems**
+- 🧩 **Love working with reusable components, custom libraries, and design systems**
+- 🔄 **Comfortable with real-time applications, API integration, and complex workflows**
+- 🌱 **Always improving my skills in modern Angular features (Signals, Standalone APIs, SSR)**
 
-<!-- Replace with your own short intro -->
-> *I enjoy turning complex problems into simple, beautiful, and intuitive interfaces.*
+<!-- short intro -->
+> *I enjoy turning complex business logic into clean, fast, and maintainable Angular applications.*
 
 ---
 
@@ -32,21 +29,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 
 ### 🎨 Styling & UI
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/ChakraUI-319795?style=flat&logo=chakraui&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat&logo=angular&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### 🧠 State Management
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![Context API](https://img.shields.io/badge/Context--API-61DAFB?style=flat)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=reactivex&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
 
 ### ⚙️ Build Tools & Package Managers
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -56,9 +52,9 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
 
 ### 🧪 Testing
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=flat)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 ### 🚀 Version Control & Deployment
@@ -73,8 +69,11 @@
 ## 📚 Currently Learning
 
 - 🧩 Advanced **Frontend Architecture**
-- ⚡ Performance optimization & **Core Web Vitals**
-- 🧠 Scalable state patterns & **server state management**
+- ⚡ **Angular Performance Optimization (Change Detection, Signals)**
+- 🧱 **Scalable Frontend Architecture (Feature-based structure)**
+- 🔄 **Advanced RxJS patterns**
+- 🚀 **Modern Angular (Standalone, SSR, Signals, Hydration)**
+- 🧠 **Clean code & maintainable enterprise patterns**
 
 ---
 
@@ -83,7 +82,7 @@
 
 <p align="center">
   <!-- Replace USERNAME -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TheaponleuChannel&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-rust-three-72.vercel.app/api?username=TheaponleuChannel&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheaponleuChannel&theme=radical" />
   <br/>
@@ -97,12 +96,11 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 🔹 Bigdooq Store | Ecommerse scaling website | Angular, TypeScript |
-| 🔹 Project Two | <!-- Replace description --> | Next.js, TypeScript |
-| 🔹 Project Three | <!-- Replace description --> | Vue, Firebase |
-| 🔹 Project Four | <!-- Replace description --> | Angular, Material UI |
-
-<!-- Replace links later if needed -->
+| 🔹 Portfolio | Persional Portfolio app | Vue, Tailwind, TypeScript |
+| 🔹 Bigdooq Store Platform | Scalable e-commerce architecture | Angular, RxJS, TypeScript |
+| 🔹 Admin Control System | Role-based enterprise dashboard | Angular, NgRx, Material, ChartJs, apex-chart, ng-apexchart |
+| 🔹 Real-Time Data Platform | Live updates & event streaming UI | Angular, WebSocket |
+| 🔹 GIS Dashboard System | High-performance map visualization | Angular, Leaflet, Deck-gel, Google Map |
 
 ---
 
@@ -111,16 +109,16 @@
 
 <p align="center">
   <!-- Replace links -->
-  <a href="https://linkedin.com/in/<!-- USERNAME -->">
+  <a href="https://linkedin.com/in/thea-ponleu-331a5a287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/<!-- USERNAME -->">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://theaponleu.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="ponleu.thea@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -129,5 +127,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  ⭐️ From <!-- YOUR NAME HERE --> — Building the web, one pixel at a time.
+  ⭐️ From Thea Ponleu— ⭐Building frontend systems that scale, perform, and evolve..
 </p>
