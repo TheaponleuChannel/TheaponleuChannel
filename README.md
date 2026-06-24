@@ -1,9 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Ponleu</h1> <h3 align="center">Frontend Developer | Angular Specialist | UI Engineer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+Angular+applications;Crafting+high-performance+frontend+systems;Focused+on+clean+architecture+%26+DX" /> </p>
+<!--
 
----
-
-<!-- ================= ABOUT ME ================= -->
 ## 👨‍💻 About Me
 
 - 💡 **Passionate about building enterprise-level Angular applications**
@@ -14,12 +12,9 @@
 - 🔄 **Comfortable with real-time applications, API integration, and complex workflows**
 - 🌱 **Always improving my skills in modern Angular features (Signals, Standalone APIs, SSR)**
 
-<!-- short intro -->
 > *I enjoy turning complex business logic into clean, fast, and maintainable Angular applications.*
 
----
 
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
@@ -63,9 +58,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
----
 
-<!-- ================= CURRENTLY LEARNING ================= -->
 ## 📚 Currently Learning
 
 - 🧩 Advanced **Frontend Architecture**
@@ -75,13 +68,10 @@
 - 🚀 **Modern Angular (Standalone, SSR, Signals, Hydration)**
 - 🧠 **Clean code & maintainable enterprise patterns**
 
----
 
-<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Replace USERNAME -->
   <img src="https://github-readme-stats-rust-three-72.vercel.app/api?username=TheaponleuChannel&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheaponleuChannel&theme=radical" />
@@ -89,9 +79,7 @@
   <img src="https:///agithub-readme-stats.vercel.apppi/top-langs/?username=TheaponleuChannel&layout=compact&theme=radical" />
 </p>
 
----
 
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -102,30 +90,25 @@
 | 🔹 Real-Time Data Platform | Live updates & event streaming UI | Angular, WebSocket |
 | 🔹 GIS Dashboard System | High-performance map visualization | Angular, Leaflet, Deck-gel, Google Map |
 
----
 
-<!-- ================= CONTACT ================= -->
 ## 📫 Connect with Me
 
 <p align="center">
-  <!-- Replace links -->
-  <a href="https://linkedin.com/in/thea-ponleu-331a5a287/">
+  <!-- <a href="https://linkedin.com/in/thea-ponleu-331a5a287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/<!-- USERNAME -->">
+  </a> -->
+  <!-- <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://theaponleu.dev">
+  </a> -->
+  <!-- <a href="https://theaponleu.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="ponleu.thea@gmail.com">
+  </a> -->
+  <!-- <a href="ponleu.thea@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
----
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  ⭐️ From Thea Ponleu— ⭐Building frontend systems that scale, perform, and evolve..
-</p>
+ <p align="center">
+  <!-- ⭐️ From Thea Ponleu— ⭐Building frontend systems that scale, perform, and evolve.. -->
+</p> 
